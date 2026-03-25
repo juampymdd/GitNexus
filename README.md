@@ -123,7 +123,7 @@ claude mcp add gitnexus -- npx -y gitnexus@latest mcp
 {
   "mcp": {
     "gitnexus": {
-      "tyoe": "local",
+      "type": "local",
       "command": ["gitnexus", "mcp"]
     }
   }
